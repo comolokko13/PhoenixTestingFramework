@@ -1,6 +1,6 @@
 # PhoenixTestingFramework
 
-clone this repo( git clone ..)\n
+clone this repo( git clone ..)
 create a branch for your updates(git checkout -b "Feature/AliK/frameworkStructure")
 do your changes
 check the files you have changed
