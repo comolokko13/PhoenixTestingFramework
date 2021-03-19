@@ -11,4 +11,5 @@
 9) if you want to unstage a file(git restore [file _path]\
 10) commit your changes[git commit -m "your comment about what you have changed"]\
 11) push you changes to you branch\
+12) test
 
